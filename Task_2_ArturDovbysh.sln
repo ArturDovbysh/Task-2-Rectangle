@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_ArturDovbysh", "Task_2_ArturDovbysh\Task_2_ArturDovbysh.csproj", "{5C651F52-DE81-4F76-B6F2-C99503A3C3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_MyRectangle.Tests", "Task_2_MyRectangle.Tests\Task_2_MyRectangle.Tests.csproj", "{42E6B5B4-FCFF-4F31-8867-CE2F6D7732EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C651F52-DE81-4F76-B6F2-C99503A3C3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C651F52-DE81-4F76-B6F2-C99503A3C3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C651F52-DE81-4F76-B6F2-C99503A3C3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C651F52-DE81-4F76-B6F2-C99503A3C3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E6B5B4-FCFF-4F31-8867-CE2F6D7732EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E6B5B4-FCFF-4F31-8867-CE2F6D7732EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E6B5B4-FCFF-4F31-8867-CE2F6D7732EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E6B5B4-FCFF-4F31-8867-CE2F6D7732EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B999E07-9241-419E-BE65-4FB5CB10B9A3}
+	EndGlobalSection
+EndGlobal

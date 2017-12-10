@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Task_2_MyRectangle.Tests.dll
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Task_2_MyRectangle.Tests.pdb
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Task_2_ArturDovbysh.exe
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Task_2_ArturDovbysh.pdb
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Task_2_ArturDovbysh.exe.config
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\obj\Debug\Task_2_MyRectangle.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\obj\Debug\Task_2_MyRectangle.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\obj\Debug\Task_2_MyRectangle.Tests.dll
+C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_MyRectangle.Tests\obj\Debug\Task_2_MyRectangle.Tests.pdb
