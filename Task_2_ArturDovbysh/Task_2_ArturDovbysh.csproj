@@ -42,15 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Direction.cs" />
-    <Compile Include="IFigure2D.cs" />
-    <Compile Include="MyRectangle.cs" />
-    <Compile Include="Point2D.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Rectangle\Classes\DirectionMapper.cs" />
+    <Compile Include="Rectangle\Enums\Direction.cs" />
+    <Compile Include="Rectangle\Interfaces\IFigure2D.cs" />
+    <Compile Include="Rectangle\Classes\MyRectangle.cs" />
+    <Compile Include="Point\Point2D.cs" />
+    <Compile Include="Program\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

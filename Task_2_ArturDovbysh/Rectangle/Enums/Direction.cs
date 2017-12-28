@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Task_2_ArturDovbysh
+﻿
+namespace Task_2_ArturDovbysh.Rectangle.Enums
 {
     /// <summary>
     /// Represents a move direction of the rectangle.

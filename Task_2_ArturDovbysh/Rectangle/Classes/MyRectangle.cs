@@ -1,6 +1,11 @@
 ﻿using System;
 
-namespace Task_2_ArturDovbysh
+using Task_2_ArturDovbysh.Point;
+using Task_2_ArturDovbysh.Rectangle.Enums;
+using Task_2_ArturDovbysh.Rectangle.Interfaces;
+
+
+namespace Task_2_ArturDovbysh.Rectangle.Classes
 {
     /// <summary>
     /// Represents a rectangle on the square
@@ -63,34 +68,7 @@ namespace Task_2_ArturDovbysh
             if (length < 0)
                 throw new ArgumentException();
 
-            switch (direction)
-            {
-                case Direction.Left:
-                    Peak = new Point2D(Peak.X - length, Peak.Y);
-                    break;
-                case Direction.Right:
-                    Peak = new Point2D(Peak.X + length, Peak.Y);
-                    break;
-                case Direction.Top:
-                    Peak = new Point2D(Peak.X, Peak.Y + length);
-                    break;
-                case Direction.Bottom:
-                    Peak = new Point2D(Peak.X, Peak.Y - length);
-                    break;
-                case Direction.TopLeft:
-                    Peak = new Point2D(Peak.X - length, Peak.Y + length);
-                    break;
-                case Direction.TopRight:
-                    Peak = new Point2D(Peak.X + length, Peak.Y + length);
-                    break;
-                case Direction.BottomLeft:
-                    Peak = new Point2D(Peak.X - length, Peak.Y - length);
-                    break;
-                case Direction.BottomRight:
-                    Peak = new Point2D(Peak.X + length, Peak.Y - length);
-                    break;
-                default: break;
-            }
+            this.Peak = DirectionMapper.DirectionMap[direction](this.Peak, length);
         }
 
         /// <summary>

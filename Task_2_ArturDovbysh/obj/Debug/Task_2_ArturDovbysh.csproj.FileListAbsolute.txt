@@ -5,3 +5,10 @@ C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_ArturDovbysh\bin\Debug\Task_2_
 C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_ArturDovbysh\bin\Debug\Task_2_ArturDovbysh.pdb
 C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_ArturDovbysh\obj\Debug\Task_2_ArturDovbysh.exe
 C:\Users\Admin\Desktop\Task_2_ArturDovbysh\Task_2_ArturDovbysh\obj\Debug\Task_2_ArturDovbysh.pdb
+D:\Study\GitHub\Task-2-Rectangle\Task_2_ArturDovbysh\obj\Debug\Task_2_ArturDovbysh.csprojResolveAssemblyReference.cache
+D:\Study\GitHub\Task-2-Rectangle\Task_2_ArturDovbysh\obj\Debug\Task_2_ArturDovbysh.csproj.CoreCompileInputs.cache
+D:\Study\GitHub\Task-2-Rectangle\Task_2_ArturDovbysh\obj\Debug\Task_2_ArturDovbysh.exe
+D:\Study\GitHub\Task-2-Rectangle\Task_2_ArturDovbysh\obj\Debug\Task_2_ArturDovbysh.pdb
+D:\Study\GitHub\Task-2-Rectangle\Task_2_ArturDovbysh\bin\Debug\Task_2_ArturDovbysh.exe.config
+D:\Study\GitHub\Task-2-Rectangle\Task_2_ArturDovbysh\bin\Debug\Task_2_ArturDovbysh.exe
+D:\Study\GitHub\Task-2-Rectangle\Task_2_ArturDovbysh\bin\Debug\Task_2_ArturDovbysh.pdb
